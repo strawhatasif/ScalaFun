@@ -1,6 +1,3 @@
-/**
- * Created by rab4154 on 12/30/2015.
- */
 object LoopsFun
 {
   def main (args: Array[String])

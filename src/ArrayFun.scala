@@ -1,7 +1,3 @@
-/**
- * Created by rab4154 on 1/11/2016.
- */
-
 import scala.collection.mutable.ArrayBuffer
 
 object ArrayFun

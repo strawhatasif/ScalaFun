@@ -1,7 +1,3 @@
-/**
- * Created by rab4154 on 1/11/2016.
- */
-
 import scala.io.StdIn.{readLine}
 
 object InputOutputFun

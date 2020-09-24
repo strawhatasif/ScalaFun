@@ -3,9 +3,6 @@ import java.io.PrintWriter
 import scala.io.Source
 import scala.math._
 
-/**
- * Created by rab4154 on 1/11/2016.
- */
 object HigherOrderFun
 {
 

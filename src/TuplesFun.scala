@@ -1,8 +1,5 @@
 import FirstScalaClass.{Wolf, Dog, Animal}
 
-/**
- * Created by rab4154 on 1/11/2016.
- */
 object TuplesFun
 {
 

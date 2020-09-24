@@ -1,8 +1,5 @@
 import scala.math.BigInt
 
-/**
- * Created by rab4154 on 1/11/2016.
- */
 object FunFunFunctions
 {
     def main(args: Array[String]): Unit =

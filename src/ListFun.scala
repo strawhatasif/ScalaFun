@@ -1,6 +1,3 @@
-/**
-  * Created by rab4154 on 01/11/2016.
-  */
 object ListFun {
    def main (args: Array[String])
    {
