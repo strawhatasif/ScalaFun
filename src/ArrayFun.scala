@@ -33,7 +33,7 @@ object ArrayFun
       friends2 ++= Array("Susy", "Paul")
 
       // Add items starting at 2nd slot
-      friends2.insert(1, "Mike", "Sally", "Sam", "Mary", "Sue")
+      friends2.insert(1, "Lauren")
 
       // Remove the 2nd element
       friends2.remove(1)
@@ -86,10 +86,6 @@ object ArrayFun
 
       // Sort in descending order (Use < for ascending)
       val sortedNums = favNums.sortWith(_ > _)
-
-      // Return an indexed sequence and convert it into a string with commas
-      println(sortedNums.deep.mkString(", "))
-
 
     }
 }
